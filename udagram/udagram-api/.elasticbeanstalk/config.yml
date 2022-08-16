@@ -4,7 +4,7 @@ branch-defaults:
 deploy:
   artifact: www/Archive.zip
 global:
-  application_name: udagram
+  application_name: udagram-api
   branch: null
   default_ec2_keyname: null
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
